@@ -1,0 +1,3 @@
+C:\Users\assistant-travaux3\Documents\Visual Studio 2022\Projet1\Projet1\x64\Debug\Projet1.vcxproj.AssemblyReference.cache
+C:\Users\assistant-travaux3\Documents\Visual Studio 2022\Projet1\Projet1\x64\Debug\Projet1.MyForm.resources
+C:\Users\assistant-travaux3\Documents\Visual Studio 2022\Projet1\Projet1\x64\Debug\Projet1.vcxproj.GenerateResource.cache

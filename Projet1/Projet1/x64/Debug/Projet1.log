@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+C:\Users\assistant-travaux3\Documents\Visual Studio 2022\Projet1\MyForm.cpp(6,6): warning C4829: Paramètres potentiellement incorrects dans la fonction main. Utilisez 'int main(Platform::Array<Platform::String^>^ argv)' à la place
+  Génération de code en cours...
+  MyForm.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  Projet1.vcxproj -> C:\Users\assistant-travaux3\Documents\Visual Studio 2022\Projet1\x64\Debug\Projet1.exe
